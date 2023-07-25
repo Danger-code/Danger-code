@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Danger-code a Web designer, aspiring programmer PHP.
-- 👀 I’m interested in programming in PHP, HTML and CSS.
-- 🌱 I’m currently learning PHP language.
-- 💞️ I’m looking to collaborate on Sorelle Ronco a jewelery e-commerce
+- 👋 Hi, I’m @Danger-code a Web Developer.
 - 📫 How to reach me giacomobat96@gmail.com
 
 <!---
